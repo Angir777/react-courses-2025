@@ -1,0 +1,5 @@
+{
+    "hello": "React is great!",
+    "currentLanguage": "Currently selected language: {{lang}}",
+    "changeLanguage": "Change language"
+}

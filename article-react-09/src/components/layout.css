@@ -1,0 +1,14 @@
+nav a button {
+    margin: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+
+nav a.active button {
+    font-weight: bold;
+    color: rgb(84, 84, 255);
+}
+
+main {
+    margin-top: 4rem;
+}
